@@ -7,7 +7,7 @@ public class DijkstrasAlgorithm {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
            int graph[][] = new int[][] {
-		  //we just changed the vertex[0][7] from 6 to 100
+		  //we just changed the vertex[0][7] from 6 to 100'
         	{ 0, 4, 0, 0, 0, 0, 0, 100, 0 }, 
             { 4, 0, 8, 0, 0, 0, 0, 11, 0 }, 
             { 0, 8, 0, 7, 0, 4, 0, 0, 2 }, 
